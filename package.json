@@ -2,7 +2,7 @@
   "name": "my-app-robots",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ikhal.github.io/my-app",
+  "homepage": "https://Ikhal.github.io/robotsApp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
